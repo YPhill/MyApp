@@ -67,6 +67,14 @@
 
         </com.google.android.material.textfield.TextInputLayout>
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entrar"
+            style="@style/Widget.MaterialComponents.Button"
+            app:icon="@drawable/ic_baseline_lock_"
+
+
 
     </LinearLayout>
 
