@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="insira_seu_e_mail">Insira seu e-mail</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+</resources>
